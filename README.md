@@ -1,4 +1,4 @@
 # gstatus-bot
 
 
-## Just a bot for see a status on channel 
+## Just a bot for see a status of gmod server on channel !
